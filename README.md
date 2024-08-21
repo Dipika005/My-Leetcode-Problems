@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
 | [2714-left-and-right-sum-differences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [2714-left-and-right-sum-differences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0135-candy) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

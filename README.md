@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

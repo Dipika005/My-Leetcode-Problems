@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
+| [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

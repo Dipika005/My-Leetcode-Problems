@@ -1,6 +1,7 @@
 class Solution {
     public boolean isHappy(int n) {
-        List<Integer> li = new ArrayList<>();
+        HashSet<Integer> li = new HashSet<>();
+       // List<Integer> li = new ArrayList<>()
         li.add(n);
 
         while (true) {

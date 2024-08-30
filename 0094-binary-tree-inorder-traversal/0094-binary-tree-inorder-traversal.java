@@ -17,20 +17,20 @@ class Solution {
     ArrayList<Integer> arr = new ArrayList<>();
 
     public List<Integer> inorderTraversal(TreeNode root) {
-        pre(root);
+        in(root);
         return arr;
 
     }
 
-    public void pre(TreeNode root) {
+    public void in(TreeNode root) {
         if (root == null) {
             return;
         }
 
-        pre(root.left);
+        in(root.left);
         arr.add(root.val);
 
-        pre(root.right);
+        in(root.right);
 
     }
 }

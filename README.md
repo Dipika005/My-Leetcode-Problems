@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0136-single-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0204-count-primes) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

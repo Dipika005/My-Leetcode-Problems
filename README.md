@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |

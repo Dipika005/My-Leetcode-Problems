@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window

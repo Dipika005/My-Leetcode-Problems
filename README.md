@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0038-count-and-say) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |

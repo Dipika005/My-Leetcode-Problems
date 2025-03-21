@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window

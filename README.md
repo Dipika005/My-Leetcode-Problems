@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2714-left-and-right-sum-differences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2714-left-and-right-sum-differences) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0038-count-and-say) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Number Theory
 |  |
 | ------- |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

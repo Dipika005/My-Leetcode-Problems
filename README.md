@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0204-count-primes) |

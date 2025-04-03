@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

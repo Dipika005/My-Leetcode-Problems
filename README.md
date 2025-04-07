@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |

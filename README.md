@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |

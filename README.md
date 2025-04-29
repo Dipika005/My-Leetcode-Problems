@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree

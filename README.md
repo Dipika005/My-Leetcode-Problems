@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0067-add-binary) |
+| [2048-build-array-from-permutation](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Memoization
 |  |

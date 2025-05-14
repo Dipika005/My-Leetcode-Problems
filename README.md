@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Divide and Conquer
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Greedy
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Design
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |

@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph

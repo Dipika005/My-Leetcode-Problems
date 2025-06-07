@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Design
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 ## Combinatorics

@@ -1,6 +1,6 @@
 class Solution {
     public int countGoodArrays(int n, int m, int k) {
-        final int MOD = 1_000_000_007;
+         final int MOD = 1_000_000_007;
 
         // Step 1: Handle edge cases
         if (k < 0 || k > n - 1)
@@ -61,6 +61,6 @@ class Solution {
             y >>= 1;
         }
         
-        return res; 
+        return res;
     }
 }

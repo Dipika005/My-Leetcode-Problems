@@ -1,0 +1,44 @@
+class Solution {
+     public int bound(int[] ends, int target) {
+        int left = 0, right = ends.length - 1, ans = -1;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (ends[mid] < target) {  // strict inequality!
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return ans + 1; // shift to 1-based index for dp
+    }
+    public int maxValue(int[][] events, int k) {
+        
+        int n = events.length;
+
+        // Sort events by end time
+        Arrays.sort(events, (a, b) -> Integer.compare(a[1], b[1]));
+
+        // Create array of end times
+        int[] ends = new int[n];
+        for (int i = 0; i < n; i++) {
+            ends[i] = events[i][1];
+        }
+
+        // DP table: dp[i][j] = max value using first i events and j slots
+        int[][] dp = new int[n + 1][k + 1];
+
+        for (int i = 1; i <= n; i++) {
+            int[] curr = events[i - 1];
+            int start = curr[0], end = curr[1], value = curr[2];
+
+            int prev = bound(ends, start); // prev = index of last event ending < start
+
+            for (int j = 1; j <= k; j++) {
+                dp[i][j] = Math.max(dp[i - 1][j], dp[prev][j - 1] + value);
+            }
+        }
+
+        return dp[n][k];
+    }
+}

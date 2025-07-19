@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2032-largest-odd-number-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0975-range-sum-of-bst](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Backtracking
 |  |
 | ------- |

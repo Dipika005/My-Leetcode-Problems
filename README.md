@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |

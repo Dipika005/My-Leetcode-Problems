@@ -1,40 +1,20 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
+         List<List<Integer>> ans = new ArrayList<>();
 
-        List<List<Integer>> triangle = new ArrayList<>();
-
-        // Base case: If numRows is 0, return empty triangle
-        if (numRows == 0) {
-            return triangle;
-        }
-
-        // First row is always [1]
-        triangle.add(new ArrayList<>());
-        triangle.get(0).add(1);
-
-        // Build the rest of the rows
-        for (int i = 1; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>();
-            List<Integer> prevRow = triangle.get(i - 1);
-
-            // First element is always 1
-            row.add(1);
-
-            // Compute the values in between
-            for (int j = 1; j < i; j++) {
-                row.add(prevRow.get(j - 1) + prevRow.get(j));
+        for(int n = 1;n<=numRows;n++){
+            List<Integer> a = new ArrayList<>();
+            a.add(1);
+            int value = 1;
+            for(int c = 1;c<n;c++){
+                value = value * (n - c);
+                value /= c;
+                a.add(value);
             }
-
-            // Last element is always 1
-            row.add(1);
-
-            // Add row to the triangle
-            triangle.add(row);
+            ans.add(a);
         }
 
-        return triangle;
+        return ans;
 
-
-        
     }
 }

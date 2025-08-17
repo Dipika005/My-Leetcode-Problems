@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -841,4 +844,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->

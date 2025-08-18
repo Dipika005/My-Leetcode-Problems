@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0040-combination-sum-ii) |
+| [0679-24-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |

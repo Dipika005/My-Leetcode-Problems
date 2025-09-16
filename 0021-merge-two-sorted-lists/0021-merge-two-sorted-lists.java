@@ -18,15 +18,12 @@ class Solution {
 
         while(t1!=null && t2!=null){
             if(t1.val<t2.val){
-                ListNode a=new ListNode(t1.val);
-                temp.next=a;
-                temp=a;
+                temp.next=t1;
+                temp=t1;
                 t1=t1.next;
-            }
-            else{
-                ListNode a=new ListNode(t2.val);
-                temp.next=a;
-                temp=a;
+            }else{
+                temp.next=t2;
+                temp=t2;
                 t2=t2.next;
             }
         }
@@ -36,7 +33,7 @@ class Solution {
             temp.next=t1;
         }
 
-    return head.next;
+        return head.next;
         
     }
 }

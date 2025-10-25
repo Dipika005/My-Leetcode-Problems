@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String Matching

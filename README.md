@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

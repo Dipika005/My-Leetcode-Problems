@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2596-check-knight-tour-configuration](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2689-rearranging-fruits) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [2596-check-knight-tour-configuration](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2596-check-knight-tour-configuration](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2596-check-knight-tour-configuration](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2596-check-knight-tour-configuration](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2596-check-knight-tour-configuration) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Binary Indexed Tree

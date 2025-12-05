@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |

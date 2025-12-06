@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1448-maximum-69-number) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |

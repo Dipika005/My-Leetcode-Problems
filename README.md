@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |

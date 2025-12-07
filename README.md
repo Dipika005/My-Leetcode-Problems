@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |

@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2050-count-good-numbers) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Matrix

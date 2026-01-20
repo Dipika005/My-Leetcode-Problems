@@ -1,22 +1,11 @@
 class Solution {
     public boolean isPalindrome(String s) {
-
-        s = s.toLowerCase().replaceAll("[^a-z0-9]","");
-
-        int left= 0;
-        int right = s.length()-1;
-
-        while(left<=right){
-            if(s.charAt(left)!=s.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
-        } 
-
-        return true;
-
-
-        
+        s=s.toLowerCase().replaceAll("[^a-z0-9]","");
+        return pal(s,0,s.length()-1);
+    }
+    public boolean pal(String s, int l, int r){
+        if(l>=r) return true;
+        if(s.charAt(l)!=s.charAt(r)) return false;
+        return pal(s,l+1,r-1);
     }
 }

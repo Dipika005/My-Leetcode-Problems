@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1200-minimum-absolute-difference](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0900-reordered-power-of-2](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

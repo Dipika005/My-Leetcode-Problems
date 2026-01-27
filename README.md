@@ -933,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -982,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->

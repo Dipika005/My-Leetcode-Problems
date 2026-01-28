@@ -1,34 +1,42 @@
 class Solution {
-    public void nextPermutation(int[] nums) {
-        int i = nums.length - 1;
-        while (i > 0 && nums[i-1] >= nums[i]) {
-            i--;
+    public void swap(int [] nums, int a , int b){
+        int t=nums[a];
+        nums[a]=nums[b];
+        nums[b]=t;
+    }
+
+    public void rev(int[] nums, int a, int b){
+        while(a<b){
+            swap(nums,a,b);
+            a++;
+            b--;
         }
-        if (i == 0) {
-            reverse(nums, 0, nums.length-1);
+    }
+
+    public void nextPermutation(int[] nums) {
+        int idx=-1;
+
+        // find pivot
+        for(int i=nums.length-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                idx=i;
+                break;
+            }
+        }
+        // if no pivot, reverse whole array
+        if(idx==-1){
+            rev(nums,0,nums.length-1);
             return;
         }
-        int j = nums.length - 1;
-        while (j >= i && nums[j] <= nums[i-1]) {
-            j--;
+      
+        //  find next greater element
+        for(int i=nums.length-1;i>idx;i--){
+            if(nums[i]>nums[idx]){
+                swap(nums,i,idx);
+                break;
+            }
         }
-        swap(nums, i-1, j);
-        reverse(nums, i, nums.length-1);
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
-    }
-
-    private void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
-            start++;
-            end--;
-        }
+        rev(nums,idx+1,nums.length-1);
+        
     }
 }

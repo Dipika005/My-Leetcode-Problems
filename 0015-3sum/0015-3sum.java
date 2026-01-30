@@ -1,43 +1,29 @@
 class Solution {
-    List<List<Integer>> res = new ArrayList();
-
     public List<List<Integer>> threeSum(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(nums);
-        for (int i = 0; i < nums.length; i++) {
-            if (i == 0 || nums[i - 1] != nums[i]) {
-                twoSumSorted(i + 1, nums.length - 1, nums, 0 - nums[i]);
+        for(int i=0;i<nums.length;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int j=i+1;
+            int k=nums.length-1;
+            while(j<k){
+                int sum=nums[i]+nums[k]+nums[j];
+                if(sum<0){
+                    j++;
+                }
+                else if(sum>0){
+                    k--;
+                }
+                else{
+                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
+                    j++;
+                    k--;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    while(k>j && nums[k]==nums[k+1]) k--;
+                }
             }
+
         }
-        return res;
-
+        return ans;
     }
-
-    void twoSumSorted(int i, int j, int[] nums, int target) {
-        int a = nums[i - 1]; // initialize a
-
-        while (i < j) {
-            if (nums[i] + nums[j] > target) {
-                j--;
-            } else if (nums[i] + nums[j] < target) {
-                i++;
-            } else {
-                List<Integer> list = new ArrayList();
-                list.add(a);
-                list.add(nums[i]);
-                list.add(nums[j]);
-                res.add(list);
-
-                while (i < j && nums[i] == nums[i + 1])
-                    i++;
-
-                while (i < j && nums[j] == nums[j - 1])
-                    j--;
-
-                i++;
-                j--;
-            }
-        }
-
-    }
-
 }

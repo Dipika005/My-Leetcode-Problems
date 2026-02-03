@@ -1,53 +1,48 @@
 class Solution {
-    public int reversePairs(int[] nums) {
-        if(nums.length == 0 || nums == null) return 0;
-        return mergeSort(nums, 0, nums.length-1);
-    }
-
-    private int mergeSort(int[] nums, int left, int right){
-        if(left >= right) return 0;
-
-        int mid = left + (right - left) / 2;
-        int count = mergeSort(nums, left, mid) + mergeSort(nums, mid+1, right);
-
-        // Count valid pairs before merging
-        count += countPairs(nums, left, mid, right);
-
-        // Merge the two sorted halves
-        merge(nums, left, mid, right);
-
-        return count;
-    }
-
-    private int countPairs(int[] nums, int left, int mid, int right){
-        int count = 0, j = mid + 1; // Pointer for right half because below for loop will start from left
-
-        for(int i = left; i <= mid; i++){
-            while(j <= right && nums[i] > 2L * nums[j]){
-                j++;  // Move j until the condition is false
-            }
-            count += (j - (mid+1)); // Count pairs for current i
+    
+    public int count(int[] nums, int l, int mid, int r){
+        int right=mid+1;
+        int cnt=0;
+        for(int i=l;i<=mid;i++){
+            while(right<=r && nums[i] > 2L * nums[right]) right++;
+            cnt+=(right-(mid+1));
         }
-        return count;
+        return cnt;
+    }
+    public int algo(int[] nums, int l, int r){
+        int cnt=0;
+        if(l>=r) return cnt;
+        int mid=(l+r)/2;
+        cnt+=algo(nums,l,mid);
+        cnt+=algo(nums,mid+1,r);
+        cnt+=count(nums, l, mid,r);
+        merge(nums,l, mid, r);
+        return cnt;
     }
 
-    private void merge(int[] nums, int left, int mid, int right){
-        int[] temp = new int[right - left + 1];
-        int i = left, j = mid + 1, k = 0;
+    public void merge(int[] nums, int l, int mid, int r) {
+        int[] temp = new int[r - l + 1];
+        int left = l;
+        int right = mid + 1;
+        int idx = 0;
 
-        while(i <= mid && j <= right){
-            if(nums[i] <= nums[j]){
-                temp[k++] = nums[i++];
+        while (left <= mid && right <= r) {
+            if (nums[left] <= nums[right]) {
+                temp[idx++] = nums[left++];
             } else {
-                temp[k++] = nums[j++];
+                temp[idx++] = nums[right++];
             }
         }
 
-        // Copy remaining left half and right
-        while(i <= mid) temp[k++] = nums[i++];
-        while(j <= right) temp[k++] = nums[j++];
+        while (left <= mid) temp[idx++] = nums[left++];
+        while (right <= r) temp[idx++] = nums[right++];
 
-        // Copy sorted temp array back to original
-        System.arraycopy(temp, 0, nums, left, temp.length);
+        for (int i = 0; i < temp.length; i++) {
+            nums[l + i] = temp[i];
+        }
+    }
+
+    public int reversePairs(int[] nums) {
+        return algo(nums,0,nums.length-1);
     }
 }

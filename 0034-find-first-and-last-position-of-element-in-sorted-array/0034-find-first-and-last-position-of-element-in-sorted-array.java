@@ -1,51 +1,27 @@
 class Solution {
-    public int findlast(int arr[], int target) {
-        int low = 0;
-        int high = arr.length - 1;
-        int ans = -1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-
-            if (arr[mid] == target) {
-                ans = mid;
-                low = mid +1;
-            }
-
-            else if (arr[mid] > target) {
-                high = mid - 1;
-            } else
-                low = mid + 1;
-        }
-        return ans;
-
-    }
-
-    public int findfirst(int arr[], int target) {
-        int low = 0;
-        int high = arr.length - 1;
-        int ans = -1;
-
-        while (low <= high) {
-           int mid = (low + high) / 2;
-
-            if (arr[mid] == target) {
-                ans = mid;
-                high = mid - 1;
-            } else if (arr[mid] > target) {
-                high = mid - 1;
-            } else
-                low = mid + 1;
-        }
-        return ans;
-
-    }
-
     public int[] searchRange(int[] nums, int target) {
-        int ans[] = { -1, -1 };
-        ans[0] = findfirst(nums, target);
-        ans[1] = findlast(nums, target);
+
+        int[] ans = new int[]{-1,-1};
+        int l=0;
+        int h=nums.length-1;
+
+        while(l<=h){
+            int mid= l+(h-l)/2;
+
+            if(nums[mid]==target){
+                int m1=mid;
+                int m2=mid;
+                
+                while(m1>0 && nums[m1]==nums[m1-1]) m1--;
+                while(m2<nums.length-1 && nums[m2]==nums[m2+1]) m2++;
+                ans[0]=m1;
+                ans[1]=m2;
+                return ans;
+            }
+            else if(nums[mid]>target) h=mid-1;
+
+            else l=mid+1;
+        }
         return ans;
-
     }
-
 }

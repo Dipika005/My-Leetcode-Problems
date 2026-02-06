@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

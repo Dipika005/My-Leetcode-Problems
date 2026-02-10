@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0868-push-dominoes) |
+| [1021-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

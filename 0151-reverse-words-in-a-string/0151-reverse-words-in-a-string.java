@@ -1,21 +1,21 @@
 class Solution {
     public String reverseWords(String s) {
-        Stack<Character> st = new Stack<>();
-        StringBuilder res= new StringBuilder();
+        
+        // TWO POINTER APPROACH
 
-        for(int i=s.length()-1;i>=0;i--){
-            if(st.isEmpty() && s.charAt(i)== ' ') continue;
-            if(s.charAt(i)==' '){
-                while(st.size()!=0) res.append(st.pop());
-                res.append(' ');
-            }
-            else {
-                st.push(s.charAt(i));
-            }
+        StringBuilder ans = new StringBuilder();
+        int i=s.length()-1;
+        while(i>=0){
+            while(i>=0 && s.charAt(i)== ' ') i--;    // stands at last letter of word
+            if(i<0) break;
+
+            int j=i;
+            while(j>=0 && s.charAt(j)!=' ') j--;     // stands at white space before first letter of word
+
+            ans.append(s.substring(j+1,i+1)).append(" ");
+            i=j;
         }
 
-        while(st.size()!=0) res.append(st.pop());
-
-        return res.toString().trim();
+        return ans.toString().trim();
     }
-}                                                                 
+}

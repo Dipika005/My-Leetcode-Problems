@@ -1,17 +1,21 @@
 class Solution {
     public String reverseWords(String s) {
+        Stack<Character> st = new Stack<>();
+        StringBuilder res= new StringBuilder();
 
-        String[] words = s.trim().split("\\s+");
-
-        String ans= "";
-
-        for(int i=words.length-1;i>0;i--){
-
-            ans+= words[i] + " ";
-
+        for(int i=s.length()-1;i>=0;i--){
+            if(st.isEmpty() && s.charAt(i)== ' ') continue;
+            if(s.charAt(i)==' '){
+                while(st.size()!=0) res.append(st.pop());
+                res.append(' ');
+            }
+            else {
+                st.push(s.charAt(i));
+            }
         }
-        ans=ans+words[0];
-        return ans;
-        
+
+        while(st.size()!=0) res.append(st.pop());
+
+        return res.toString().trim();
     }
-}
+}                                                                 

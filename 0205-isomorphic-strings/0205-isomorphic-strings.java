@@ -1,26 +1,24 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         
-        // TWO HASHMAP APPROACH 
-        // (to avoid containsValue time(o(n) which is used if we use one hashmap approach(o(n^2))
+        // USING 2 ARRAYS
 
+        // edge case
         if(s.length()!=t.length()) return false;
 
-        HashMap<Character, Character> hm = new HashMap<>();
-        HashMap<Character, Character> hm2 = new HashMap<>();
+        int[] map1 = new int[256];
+        int[] map2 = new int[256];
 
         for(int i=0;i<s.length();i++){
             char sch = s.charAt(i);
             char tch = t.charAt(i);
 
-            if(hm.containsKey(sch) && hm.get(sch)!=tch) return false;
-            if(hm2.containsKey(tch) && hm2.get(tch)!=sch) return false;
+            if(map1[sch]!=map2[tch]) return false;
 
-            hm.put(sch,tch);
-            hm2.put(tch,sch);
+            map1[sch]=i+1;          
+            map2[tch]=i+1;
         }
 
         return true;
-
     }
 }

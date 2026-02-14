@@ -10,39 +10,50 @@
  */
 class Solution {
 
-    public ListNode rev(ListNode head){
-        ListNode curr=head;
-        ListNode prev= null;
-        ListNode next=null;
+    public ListNode reverse(ListNode head){
+        ListNode temp=head;
+        ListNode prev=null;
+        ListNode forward=null; 
 
-        while(curr!=null){
-            next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+        while(temp!=null){
+           forward=temp.next;
+            temp.next=prev;
+            prev=temp;
+            temp=forward;
         }
+
         return prev;
     }
-    public boolean isPalindrome(ListNode head) {
-        // left Middle ele
-        ListNode fast=head;
-        ListNode slow=head;
-        while(fast.next!=null && fast.next.next!=null){
-            fast=fast.next.next;
-            slow=slow.next;
-        }
-        ListNode revHead= rev(slow.next);
-        slow.next=revHead;
 
+    public boolean isPalindrome(ListNode head) {
+
+        // edge case 
+        if(head == null || head.next == null) return true;
+
+        ListNode fast = head;
+        ListNode slow = head;
+
+        while(fast.next.next!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+
+        // this will return reverse linked list head
+        ListNode temp = reverse(slow.next);
+
+        // connecting reverse ll to middle
+        slow.next=temp;
+
+        // comparing using 2 pointers
         ListNode p1=head;
-        ListNode p2=slow.next;
+        ListNode p2=temp;
 
         while(p2!=null){
-            if(p1.val!=p2.val) return false;
+            if(p1.val!=p2.val) return false; 
             p1=p1.next;
             p2=p2.next;
         }
+
         return true;
-        
     }
 }

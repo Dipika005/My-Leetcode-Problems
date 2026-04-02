@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0900-reordered-power-of-2) |
+| [0904-fruit-into-baskets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0867-new-21-game) |
+| [0904-fruit-into-baskets](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |

@@ -12,9 +12,8 @@ class Solution {
         while(l<m && r<n){
             if(g[l]<=s[r]){
                 l=l+1;
-                r=r+1;
             }
-            else r++;
+            r++;
         }
 
         return l;

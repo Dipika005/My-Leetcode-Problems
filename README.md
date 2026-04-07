@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Dipika005/My-Leetcode-Problems/tree/master/1448-maximum-69-number) |
